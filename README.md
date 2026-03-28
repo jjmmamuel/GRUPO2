@@ -18,6 +18,6 @@ Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible:
 |--------|---------|--------------------|
 | Leydi Huamani | Integrante | Formulario P3 |
 | Compañero 1 | Integrante | Formulario P1 |
-| Compañero 2 | Integrante | Formulario P2 |
+| Josué Cardenas | Integrante | Formulario P2 |
 | Compañero 3 | Integrante | Reportes |
 | Compañero 4 | Integrante | Diseño |
