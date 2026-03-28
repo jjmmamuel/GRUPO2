@@ -24,7 +24,12 @@ Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible:
 👥 INTEGRANTES DE EQUIPO:
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<img width="1305" height="587" alt="image" src="https://github.com/user-attachments/assets/80960d8b-2da3-48eb-8e4a-927bda613342" />
+| nombres    | rol                | intereses   |
+|------------|--------------------|-------------|
+| Angeli Sanchez     | Scrum Master   | Sostenibilidad ambiental, energías limpias y diseño visual para la concientización ecológica|
+| Leydi Huamani | Diseñadora UX      | Ciberseguridad, análisis de datos y seguridad digital    |
+| Josue Cardenas      | Product Owner  | Optimización de procesos, sostenibilidad y metodologías ágiles.      |
+| Juan Tordoya      | Investigador | Ciberseguridad y protección de la información       |
 
 
 Resumen Final
