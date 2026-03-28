@@ -1,8 +1,9 @@
-Equipo 2 – Procesos de innovación en ingeniería
+# Equipo 2 – Procesos de innovación en ingeniería
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Carrera de Ingeniería Ambiental / Industrial / Informática
-Universidad Peruana Cayetano Heredia
+## Carrera de Ingeniería Ambiental / Industrial / Informática
+
+### Universidad Peruana Cayetano Heredia
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🌍 Descripción del equipo:
